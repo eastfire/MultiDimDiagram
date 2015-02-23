@@ -20,7 +20,7 @@
             onEnter :"apply",//"apply", null
             onEdit : null,
             startWith:"view",//view, edit
-            showLink:true,
+            showLink:false,
             data: "",
             disabled: false,
             validate:null,
